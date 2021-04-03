@@ -84,3 +84,21 @@ func_1.c(alpha = 3,beta = 4, c = 5)
 
 # Q2 #
 
+## Cauchy Distibution ##
+
+```{r}
+knitr::include_graphics(c("2.1.1.png","2.1.2.png","2.1.3.png"))
+```
+
+## Double Exponential Distibution ##
+
+```{r}
+knitr::include_graphics(c("2.2.1.png","2.2.2.png","2.2.3.png"))
+```
+
+
+
+
+
+
+
